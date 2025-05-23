@@ -2,7 +2,9 @@
   <img src="https://i.ibb.co/BKBpcHh6/Untitled-Project.png" alt="BBULLET Logo" width="150"/>
 </p>
 
-<h1 align="center">🎯 BBULLET | A Raydium & pump.fun Bundler</h1>
+<h1 align="center">
+  <a href="https://bbullet.app/" style="text-decoration: none; color: inherit;">🎯 BBULLET | A Raydium & pump.fun Bundler</a>
+</h1>
 
 <p align="center">
   <strong>Your Specialized Token Bundling Arsenal for Raydium & pump.fun on Solana</strong>
