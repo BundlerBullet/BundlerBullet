@@ -30,10 +30,10 @@
 
 <p align="center">
   <a href="#-core-purpose">Core Purpose</a> •
-  <a href="https://bbullet.app/about">About Us</a> •
+  <a href="https://bbullet.app">Our Website</a> •
   <a href="#-supported-platforms--specific-features-">Platforms</a> •
   <a href="https://bbullet.app/#features">Bundler Features</a> •
-  <a href="https://bbullet.app/">Getting Started</a> •
+  <a href="-getting-started">Getting Started</a> •
   <a href="https://bbullet.app/#faq">FAQ</a> <!-- Considera se mantenere questo link se la sezione non c'è -->
 </p>
 
